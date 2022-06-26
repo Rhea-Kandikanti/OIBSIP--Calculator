@@ -8,8 +8,6 @@
    Video Link: https://www.linkedin.com/feed/update/urn:li:activity:6946521752113938432/
 
 
-
-
 ✨Check Oasis infobyte here:
 
    Check them out on:
@@ -17,8 +15,6 @@
    Website: https://oasisinfobyte.com
 
    Linkedin Profile: https://www.linkedin.com/company/oasis-infobyte/?originalSubdomain=in
-
-
 
 
 ✨My Experience:
@@ -37,16 +33,11 @@
        details are given below.
        
     
-  
-  
-  
 ✨Links of these projecs are given below, feel free to check them out by clicking below:
 
    Task-2(Tribute-Page) - https://rhea-kandikanti.github.io/OIBSIP--Tribute-Page/
 
    Task-3(ToDo-WebApp) - https://rhea-kandikanti.github.io/OIBSIP--ToDo-WebApp/
-
-
 
 
 ✨Connect with me:

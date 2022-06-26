@@ -23,9 +23,16 @@
 
 ✨My Experience:
 
-    I've got the oppourtunity to intern at Oasis Infobyte for 1 month during the month of June-July 2022. I feel lucky that I 
-    have taken part in this Internship since I learnt a lot of new techniques to create projects using programming languages and 
-    frameworks for Html, Css and Javascript. In this Internship I have completed Tasks-1,2,3 of Level-2.
+    -> I've got the opportunity to Intern at Oasis Infobyte for 1 month during the month of June-July 2022. 
+    -> I feel lucky that I have taken part in this Internship since I learnt a lot about new techniques to create projects and understood 
+       the importance of deploying them on Github. 
+    -> Using different frameworks and features for Html, Css and Javascript this experience now gave me confidence on how to use them in a 
+       more efficient way to clean coding. 
+    -> In this Internship I have completed Tasks-1,2,3 of Level-2.
+    -> I was asked to make a video of every project I made... Feel free to check them out on my Linkedin. My Linkedin Profile details are 
+       given below.
+       
+       The links of other Github projects are given below.
     
   
   

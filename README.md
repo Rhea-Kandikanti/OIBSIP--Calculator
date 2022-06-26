@@ -17,7 +17,7 @@ ________________________________________________________________________________
    Linkedin Profile: https://www.linkedin.com/company/oasis-infobyte/?originalSubdomain=in
 ________________________________________________________________________________________________________________________________
 
-✨My Experience:
+✨My Experience with Oasis Infobyte:
 
    -> I've got the opportunity to Intern at Oasis Infobyte for 1 month during the month of June-July 2022. 
     
